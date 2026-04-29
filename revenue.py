@@ -546,7 +546,7 @@ st.markdown(
     """
     <div style='text-align: center; color: #666;'>
         <p>📊 Sales & Revenue Analysis Dashboard | Built with Streamlit & Python</p>
-        <p>Data Analyst Internship Project - Task 1</p>
+        <p>Nagineni Rithika Computer Science and Engineering(AIML)</p>
     </div>
     """,
     unsafe_allow_html=True
